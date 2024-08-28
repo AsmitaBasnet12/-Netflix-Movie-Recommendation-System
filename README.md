@@ -1,13 +1,21 @@
 Welcome to the initiative of the Movie Recommendation System! The code for a straightforward Netflix dataset-based movie recommendation system is available in this repository. Based on genres, the system suggests films and offers graphic representations of those recommendations
 
 📂 Getting Started
+
 Prerequisites
+
 Make sure you have the following installed:
-1.Python 3.x
+
+1.Python 
+
 2.Pandas
+
 3.NumPy
+
 4.Scikit-learn
+
 5.Matplotlib
+
 6.Seaborn
 
 Dataset
