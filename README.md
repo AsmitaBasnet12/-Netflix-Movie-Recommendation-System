@@ -1,9 +1,8 @@
 1.Project Overview
+
 This project is a straightforward mechanism for recommending films based on how similar their genres are. It employs cosine similarity on the genre and type data to determine how similar two films are by utilising a cleaned version of the Netflix Shows dataset.
 
-2.Getting Started
-
-3.Prerequisites
+2.Prerequisites
 
 Make sure you have the following installed:
 
@@ -19,12 +18,12 @@ e.Matplotlib
 
 f.Seaborn
 
-4.Dataset
+3.Dataset
 
 A Netflix movie dataset is used in the study. Make sure the dataset file is in the project directory, or change the code to point to the right location.
 
 
-5.How It Works
+4.How It Works
 
 Following is the implementation of the recommendation system:
 
@@ -48,12 +47,12 @@ e.Visualisation:
 
 A scatter plot is used to display the suggested movies, with similarity scores on the y-axis and movie names on the x-axis.
 
-6.Usage
+5.Usage
 
 a.Input: A movie title input box is displayed to the user.
 b.Output: A scatter plot with the list of suggested films that are comparable to the input movie is produced by the system.
 
-7.Conclusion
+6.Conclusion
 
 This project shows how to use text vectorisation and cosine similarity to create a simple recommendation system. It offers a simple, yet powerful, method for making movie recommendations based on similarity in genre.
 
